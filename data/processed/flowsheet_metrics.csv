@@ -1,0 +1,92 @@
+nursingchartcelltypecat,nursingchartcelltypevallabel,nursingchartcelltypevalname,record_count
+Vital Signs,Heart Rate,Heart Rate,179078
+Vital Signs,Respiratory Rate,Respiratory Rate,168437
+Vital Signs,Non-Invasive BP,Non-Invasive BP Systolic,146050
+Vital Signs,Non-Invasive BP,Non-Invasive BP Diastolic,146049
+Vital Signs,O2 Saturation,O2 Saturation,133112
+Vital Signs,Non-Invasive BP,Non-Invasive BP Mean,118301
+Vital Signs,Temperature,Temperature (F),61880
+Vital Signs,Temperature,Temperature (C),61880
+Vital Signs,Temperature,Temperature Location,41459
+Scores,Glasgow coma score,GCS Total,27046
+Vital Signs,Invasive BP,Invasive BP Systolic,26434
+Vital Signs,Invasive BP,Invasive BP Diastolic,26431
+Vital Signs,Invasive BP,Invasive BP Mean,23829
+Scores,Glasgow coma score,Eyes,23490
+Scores,Glasgow coma score,Motor,23468
+Scores,Glasgow coma score,Verbal,23337
+Scores,Pain Score/Goal,Pain Score,22264
+Vital Signs,O2 L/%,O2 L/%,20137
+Vital Signs,CVP,CVP,14271
+Vital Signs and Infusions,Bedside Glucose,Bedside Glucose,12837
+Vital Signs,O2 Admin Device,O2 Admin Device,11978
+Scores,Sedation Scale/Score/Goal,Sedation Scale,11884
+Scores,Sedation Scale/Score/Goal,Sedation Score,11646
+Scores,Pain Score/Goal,Pain Goal,9071
+Other Vital Signs and Infusions,Pulse,Value,7737
+Other Vital Signs and Infusions,P.O.,Value,7043
+Other Vital Signs and Infusions,MAP (mmHg),Value,6467
+Other Vital Signs and Infusions,Best Verbal Response,Value,5711
+Other Vital Signs and Infusions,Best Motor Response,Value,5708
+Other Vital Signs and Infusions,Best Eye Response,Value,5080
+Other Vital Signs and Infusions,Pain Assessment,Value,5014
+Other Vital Signs and Infusions,Pulse Ox  Mode,Value,4752
+Other Vital Signs and Infusions,Score (Glasgow Coma Scale),Value,4511
+Scores,Sedation Scale/Score/Goal,Sedation Goal,3919
+Other Vital Signs and Infusions,Level of Assistance,Value,3459
+Other Vital Signs and Infusions,Patient s Comfort/Function (Pain) GOAL At Rest,Value,3397
+Other Vital Signs and Infusions,Arterial Line MAP (mmHg),Value,3149
+Other Vital Signs and Infusions,Mental Status Assessment,Value,3078
+Other Vital Signs and Infusions,Respiratory Assessment,Value,2994
+Other Vital Signs and Infusions,Neurological Assessment,Value,2989
+Other Vital Signs and Infusions,SpO2,Value,2976
+Other Vital Signs and Infusions,CV/ PV Assessment,Value,2921
+Other Vital Signs and Infusions,Gastrointestinal Assessment,Value,2872
+Other Vital Signs and Infusions,Integumentary Assessment,Value,2862
+Other Vital Signs and Infusions,Genitourinary Assessment,Value,2827
+Other Vital Signs and Infusions,"Eye, Ear, Nose, Throat Assessment",Value,2760
+Scores,Delirium Scale/Score,Delirium Score,2732
+Scores,Delirium Scale/Score,Delirium Scale,2732
+Other Vital Signs and Infusions,Musculoskeletal Assessment,Value,2718
+Vital Signs,End Tidal CO2,End Tidal CO2,2691
+Other Vital Signs and Infusions,Pain Present,Value,2658
+Other Vital Signs and Infusions,RASS,Value,2112
+Invasive,PA,PA Systolic,2032
+Invasive,PA,PA Diastolic,2032
+Invasive,PA,PA Mean,2008
+Other Vital Signs and Infusions,SEDATION SCORE,Value,1857
+Vital Signs,ICP,ICP,1843
+Other Vital Signs and Infusions,Eye Opening,Value,1671
+Invasive,CI,CI,1650
+Other Vital Signs and Infusions,Symptoms of Delirium Present,Value,1611
+Invasive,CO,CO,1271
+Other Vital Signs and Infusions,Verbal Response,Value,1249
+Other Vital Signs and Infusions,Motor Response,Value,1248
+SVO2,SVO2,SVO2,980
+Invasive,SVR,SVR,823
+Scores,Fall Risk,Fall Risk,804
+Vital Signs,CPP,CPP,585
+Other Vital Signs and Infusions,CVP (mmHg),Value,402
+Invasive,SVRI,SVRI,259
+Vital Signs and Infusions,Electrolyte Replacement,Electrolyte Replacement,249
+ECG,ECG (secs),QRS,233
+Invasive,PVR,PVR,224
+Invasive,SV,SV,221
+ECG,ECG (secs),QT,221
+Vital Signs,PA,PA Mean,213
+Vital Signs,PA,PA Diastolic,212
+Vital Signs,PA,PA Systolic,212
+ECG,ECG (secs),PR,204
+Vital Signs,SV,SV,147
+ECG,ECG (secs),QTc,118
+Invasive,SVO2,SVO2,57
+Invasive,PVRI,PVRI,53
+Vital Signs,CO,CO,50
+Vital Signs,SVO2,SVO2,42
+Vital Signs,CI,CI,41
+Invasive,PAOP,PAOP,32
+Vital Signs,SVR,SVR,29
+Vital Signs,SVRI,SVRI,24
+Vital Signs,PVR,PVR,6
+Vital Signs,PAOP,PAOP,6
+Vital Signs,PVRI,PVRI,6
